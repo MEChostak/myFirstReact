@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import PropTypes from "prop-types";
-import "./task-item.css";
+import "./Task-item.css";
 
 export default function TaskItem({
   id,
